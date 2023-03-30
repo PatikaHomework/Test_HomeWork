@@ -1,4 +1,5 @@
-#Emoji Search App
+# Emoji Search App
+
 This project is a simple React application that allows users to search for emojis and copy them to their clipboard. 
 The application uses a pre-defined list of emojis in JSON format.
 
