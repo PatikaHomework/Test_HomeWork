@@ -21,9 +21,9 @@ The application uses a pre-defined list of emojis in JSON format.
 
 ## Features
 
--Search for emojis by name or keyword.
--Copy an emoji to your clipboard with a single click.
--Responsive design for use on desktop and mobile devices.
+- Search for emojis by name or keyword.
+- Copy an emoji to your clipboard with a single click.
+- Responsive design for use on desktop and mobile devices.
 
 ## Testing
 
