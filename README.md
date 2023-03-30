@@ -13,11 +13,11 @@ The application uses a pre-defined list of emojis in JSON format.
 
 ## Installation and Setup
 
-1- Clone the repository.
-2- Open a terminal window and navigate to the project directory.
-3- Run npm install to install the required dependencies.
-4- Run npm start to start the application.
-5- Open your browser and navigate to http://localhost:3000.
+- Clone the repository.
+- Open a terminal window and navigate to the project directory.
+- Run npm install to install the required dependencies.
+- Run npm start to start the application.
+- Open your browser and navigate to http://localhost:3000.
 
 ## Features
 
